@@ -22,6 +22,7 @@ connection.connect(function (err) {
             database: 'burgers_db'
         });
     };
+
 });
 
 module.exports = connection;
