@@ -12,4 +12,4 @@ Technologies used:
 - MySQL
 - Node
 
-- Heroku app : https://warm-brook-24533.herokuapp.com/ 
+- Link to deployed assignment : https://warm-brook-24533.herokuapp.com/ 
