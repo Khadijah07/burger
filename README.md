@@ -1,6 +1,8 @@
 # burger
 
 SMU Coding Bootcamp 2019-2020 HW Week 14
+
+
 This app is a burger logger that utilizes node and MySQL to query and route data in your app, Handlebars will generate the HTML for the application. 
 
 
